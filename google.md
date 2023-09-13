@@ -1,6 +1,6 @@
 # Objectives for AI applications (Google)
 
-## Be socially beneficial.
+## 1. Be socially beneficial.
 The expanded reach of new technologies increasingly touches society as a whole. Advances in AI will have transformative impacts in a wide range of fields, including healthcare, security, energy, transportation, manufacturing, and entertainment. As we consider potential development and uses of AI technologies, we will take into account a broad range of social and economic factors, and will proceed where we believe that the overall likely benefits substantially exceed the foreseeable risks and downsides.
 
 AI also enhances our ability to understand the meaning of content at scale. We will strive to make high-quality and accurate information readily available using AI, while continuing to respect cultural, social, and legal norms in the countries where we operate. And we will continue to thoughtfully evaluate when to make our technologies available on a non-commercial basis.
@@ -25,3 +25,7 @@ We will work with a range of stakeholders to promote thoughtful leadership in th
 ## 7. Be made available for uses that accord with these principles.
 Many technologies have multiple uses. We will work to limit potentially harmful or abusive applications. As we develop and deploy AI technologies, we will evaluate likely uses in light of the following factors:
 
+---
+## Sources
+
+- [Google: Objectives for AI applications](https://ai.google/responsibility/principles/)
