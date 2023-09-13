@@ -15,7 +15,7 @@ We will continue to develop and apply strong safety and security practices to av
 We will design AI systems that provide appropriate opportunities for feedback, relevant explanations, and appeal. Our AI technologies will be subject to appropriate human direction and control.
 
 ## 5. Incorporate privacy design principles.
-We will incorporate our privacy principles in the development and use of our AI technologies. We will give opportunity for notice and consent, encourage architectures with privacy safeguards, and provide appropriate transparency and control over the use of data.
+We will incorporate our privacy principles in the development and use of our AI technologies. We will give opportunity for notice and **consent**, encourage architectures with privacy safeguards, and provide appropriate transparency and control over the use of data.
 
 ## 6. Uphold high standards of scientific excellence.
 Technological innovation is rooted in the scientific method and a commitment to open inquiry, intellectual rigor, integrity, and collaboration. AI tools have the potential to unlock new realms of scientific research and knowledge in critical domains like biology, chemistry, medicine, and environmental sciences. We aspire to high standards of scientific excellence as we work to progress AI development.
