@@ -22,4 +22,8 @@ We strive for model explainability and clear usage terms, and ensure customers c
 ## Empowering
 Accessible AI promotes growth and increased employment, and benefits society as a whole.
 
+---
+## Sources
+- [Salesforce Trusted AI](https://www.salesforceairesearch.com/trusted-ai)
+- [Ethical Use Policy](https://www.salesforce.com/company/intentional-innovation/ethical-use-policy/)
 
