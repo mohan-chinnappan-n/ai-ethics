@@ -52,3 +52,13 @@ Ethical use of AI is a critical consideration in the development and deployment 
 
 ## Resources
 - [Open Ethics Initiative](https://openethics.ai/)
+- [Fathers of AI](./fathers.md)
+
+- [Google: Objectives for AI applications](https://ai.google/responsibility/principles/)
+- [Meta’s five pillars of responsible AI that inform our work](https://ai.meta.com/responsible-ai/)
+
+- [Salesforce Trusted AI](https://www.salesforceairesearch.com/trusted-ai)
+- [Ethical Use Policy](https://www.salesforce.com/company/intentional-innovation/ethical-use-policy/)
+
+
+
