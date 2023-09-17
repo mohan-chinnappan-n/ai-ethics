@@ -93,6 +93,7 @@ Ethical use of AI is a critical consideration in the development and deployment 
 
 - [Salesforce Trusted AI](https://www.salesforceairesearch.com/trusted-ai)
 - [Ethical Use Policy](https://www.salesforce.com/company/intentional-innovation/ethical-use-policy/)
+- [Reducing Toxicity in Language Models](https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/)
 
 
 
