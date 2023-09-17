@@ -19,7 +19,7 @@ Ethical use of AI is a critical consideration in the development and deployment 
 3. **Privacy and Data Protection**:
    - Respect individuals' privacy by collecting and processing data in a manner that complies with privacy laws and regulations.
    - Implement robust data security measures to **protect sensitive information from unauthorized access or breaches**.
-   - ![privacy](img/privacy.jpeg)
+- ![privacy](img/privacy.jpeg)
 
 4. **Accountability**:
    - Establish clear lines of accountability for AI systems and their outcomes including providing citations and credits to the folks who created the original content.
@@ -31,7 +31,7 @@ Ethical use of AI is a critical consideration in the development and deployment 
       - Being mindful of LLM output and avoiding stereotypes and assumptions
       - Making sure that this technology is accessible to everyone
       - Should create a culture of respect and belonging
-   - ![inclusive](img/inclusive.jpeg)
+- ![inclusive](img/inclusive.jpeg)
 
 6. **Safety and Risk Mitigation**:
    - Prioritize the safety of AI systems, especially in applications like autonomous vehicles and medical devices.
@@ -40,7 +40,7 @@ Ethical use of AI is a critical consideration in the development and deployment 
       - Implementing safety measures, such as monitoring and oversight systems
       - Testing AI systems thoroughly before deploying them
       - Having a plan in place to respond to incidents
-   ![Safety](img/saftey-1.jpeg)
+![Safety](img/saftey-1.jpeg)
 
 
 7. **Human Oversight**:
@@ -48,7 +48,7 @@ Ethical use of AI is a critical consideration in the development and deployment 
    - **Avoid fully autonomous AI systems in contexts where human judgment is essential**.
       - Monitoring and auditing AI systems to ensure that they are operating as intended
       - Intervening to override AI systems if necessary
-   ![Human Oversight](img/human-oversight-1.jpeg)
+![Human Oversight](img/human-oversight-1.jpeg)
 
 
 8. **Ethical AI Education**:
@@ -67,7 +67,7 @@ Ethical use of AI is a critical consideration in the development and deployment 
       - The potential risks of the AI system
       - The potential impacts on different groups of people
       - The potential impacts on different aspects of society
-   ![Social Impact](img/socialImpact.jpeg)
+![Social Impact](img/socialImpact.jpeg)
 
 10. **Legal and Regulatory Compliance**:
     - Comply with relevant laws and regulations governing AI in specific domains and regions.
